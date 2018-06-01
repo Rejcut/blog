@@ -9,6 +9,7 @@ gem 'pg'
 gem 'puma'
 gem 'rails', '5.1.5'
 gem 'redis'
+gem "paperclip"
 
 gem 'jquery-rails'
 gem 'autoprefixer-rails'
